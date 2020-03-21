@@ -1,6 +1,6 @@
 using System;
 
-namespace KoohTajrobe
+namespace KoohTajrobe.Api
 {
     public class WeatherForecast
     {

@@ -4,5 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\KoohTajrobe.Business\KoohTajrobe.Business.csproj" />
+  </ItemGroup>
+
 
 </Project>
